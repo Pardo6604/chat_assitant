@@ -101,5 +101,25 @@ Improve prompt for more accurate LLM responses
 
 Add better error handling/logging
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 Built by Santiago Velasco
+
+## 📚 Dataset
+This project uses data from the Two Sigma Connect: Rental Listing Inquiries Kaggle competition.
+
+Citation:
+
+Meg Risdal, Thandar, Wendy Kan.
+Two Sigma Connect: Rental Listing Inquiries. Kaggle, 2017.
+https://kaggle.com/competitions/two-sigma-connect-rental-listing-inquiries
+
+<details> <summary>BibTeX Citation</summary>
+@misc{two-sigma-connect-rental-listing-inquiries,
+    author = {Meg Risdal and Thandar and Wendy Kan},
+    title = {Two Sigma Connect: Rental Listing Inquiries},
+    year = {2017},
+    howpublished = {\url{https://kaggle.com/competitions/two-sigma-connect-rental-listing-inquiries}},
+    note = {Kaggle}
+}
+</details>
+

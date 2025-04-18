@@ -26,6 +26,15 @@ This is a conversational AI assistant designed to help users find apartment rent
 
 ## 📂 Project Structure
 
+project-root/
+├── db/
+│   └── chroma_langchain_db/       # Vector DB files
+├── train.json                 # Listing data
+├── main.py
+├── vector.py
+├── requirements.txt
+└── README.md
+
 ---
 
 ## 🧠 How It Works

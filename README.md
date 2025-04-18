@@ -1,4 +1,4 @@
-# 🏢 Edwin: Apartment Listing Assistant (LangChain + Ollama + Chroma)
+# 🏢 Apartment Listing Assistant (LangChain + Ollama + Chroma)
 
 This is a conversational AI assistant designed to help users find apartment rentals based on listing data. It uses natural language processing and vector search to return the most relevant results from a dataset of listings.
 
